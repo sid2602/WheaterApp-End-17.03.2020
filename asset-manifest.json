@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/WheaterApp-End-17.03.2020/static/css/main.ce9acf00.chunk.css",
+    "main.js": "/WheaterApp-End-17.03.2020/static/js/main.320238f6.chunk.js",
+    "main.js.map": "/WheaterApp-End-17.03.2020/static/js/main.320238f6.chunk.js.map",
+    "runtime-main.js": "/WheaterApp-End-17.03.2020/static/js/runtime-main.e82e31f9.js",
+    "runtime-main.js.map": "/WheaterApp-End-17.03.2020/static/js/runtime-main.e82e31f9.js.map",
+    "static/js/2.08d3bc73.chunk.js": "/WheaterApp-End-17.03.2020/static/js/2.08d3bc73.chunk.js",
+    "static/js/2.08d3bc73.chunk.js.map": "/WheaterApp-End-17.03.2020/static/js/2.08d3bc73.chunk.js.map",
+    "index.html": "/WheaterApp-End-17.03.2020/index.html",
+    "precache-manifest.b07b02c0426fe2b93de672a37059872e.js": "/WheaterApp-End-17.03.2020/precache-manifest.b07b02c0426fe2b93de672a37059872e.js",
+    "service-worker.js": "/WheaterApp-End-17.03.2020/service-worker.js",
+    "static/css/main.ce9acf00.chunk.css.map": "/WheaterApp-End-17.03.2020/static/css/main.ce9acf00.chunk.css.map",
+    "static/js/2.08d3bc73.chunk.js.LICENSE.txt": "/WheaterApp-End-17.03.2020/static/js/2.08d3bc73.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e82e31f9.js",
+    "static/js/2.08d3bc73.chunk.js",
+    "static/css/main.ce9acf00.chunk.css",
+    "static/js/main.320238f6.chunk.js"
+  ]
+}
