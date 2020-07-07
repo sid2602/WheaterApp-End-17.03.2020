@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/WheaterApp-End-17.03.2020/precache-manifest.b07b02c0426fe2b93de672a37059872e.js"
+  "/WheaterApp-End-17.03.2020/precache-manifest.326189674e85494c8980af32495ba5c5.js"
 );
 
 self.addEventListener('message', (event) => {
